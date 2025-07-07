@@ -1,0 +1,10 @@
+{
+    "horizontalFrames": 90,
+    "horizontalStartingIndex": 89,
+    "horizontalWrap": true,
+    "name": "AthensVase",
+    "type": "KeyShotXR",
+    "verticalFrames": 1,
+    "verticalStartingIndex": 0,
+    "verticalWrap": false
+}
