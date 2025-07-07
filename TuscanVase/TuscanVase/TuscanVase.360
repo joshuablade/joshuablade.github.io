@@ -1,0 +1,10 @@
+{
+    "horizontalFrames": 90,
+    "horizontalStartingIndex": 89,
+    "horizontalWrap": true,
+    "name": "TuscanVase",
+    "type": "KeyShotXR",
+    "verticalFrames": 1,
+    "verticalStartingIndex": 0,
+    "verticalWrap": false
+}
