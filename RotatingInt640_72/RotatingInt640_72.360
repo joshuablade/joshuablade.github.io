@@ -1,0 +1,10 @@
+{
+    "horizontalFrames": 72,
+    "horizontalStartingIndex": 71,
+    "horizontalWrap": true,
+    "name": "RotatingInt640_72",
+    "type": "KeyShotXR",
+    "verticalFrames": 1,
+    "verticalStartingIndex": 0,
+    "verticalWrap": false
+}
