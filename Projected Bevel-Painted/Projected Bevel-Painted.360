@@ -1,0 +1,10 @@
+{
+    "horizontalFrames": 16,
+    "horizontalStartingIndex": 15,
+    "horizontalWrap": false,
+    "name": "Projected Bevel-Painted",
+    "type": "KeyShotXR",
+    "verticalFrames": 1,
+    "verticalStartingIndex": 0,
+    "verticalWrap": false
+}
