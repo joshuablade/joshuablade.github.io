@@ -1,0 +1,10 @@
+{
+    "horizontalFrames": 60,
+    "horizontalStartingIndex": 59,
+    "horizontalWrap": false,
+    "name": "HangingSign",
+    "type": "KeyShotXR",
+    "verticalFrames": 1,
+    "verticalStartingIndex": 0,
+    "verticalWrap": false
+}
