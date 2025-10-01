@@ -1,0 +1,10 @@
+{
+    "horizontalFrames": 30,
+    "horizontalStartingIndex": 29,
+    "horizontalWrap": false,
+    "name": "StakeMount",
+    "type": "KeyShotXR",
+    "verticalFrames": 1,
+    "verticalStartingIndex": 0,
+    "verticalWrap": false
+}
