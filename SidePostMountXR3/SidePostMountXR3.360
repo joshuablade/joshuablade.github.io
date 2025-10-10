@@ -1,0 +1,10 @@
+{
+    "horizontalFrames": 180,
+    "horizontalStartingIndex": 179,
+    "horizontalWrap": true,
+    "name": "SidePostMountXR3",
+    "type": "KeyShotXR",
+    "verticalFrames": 1,
+    "verticalStartingIndex": 0,
+    "verticalWrap": false
+}
